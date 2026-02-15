@@ -43,7 +43,7 @@
 - 실시간 위치 공유 (Socket.IO, 카카오 지도)
 - iOS Live Activity, Android 홈 위젯
 
-### 하이 - 성남시수소충전소
+### 하이 - 성남수소충전소
 > E1 성남시 수소충전소 납품 앱
 
 - Flutter, NestJS, PostgreSQL
