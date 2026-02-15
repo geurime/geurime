@@ -29,26 +29,26 @@
 
 ## Projects
 
-### VERDICT - 분쟁 해결 플랫폼
-> 일상의 분쟁을 투표와 중재로 해결하는 서비스
+### VERDICT - 갈등 해결 플랫폼
+> 일상의 갈등을 투표와 중재로 해결하는 서비스
 
 - React Native, NestJS, PostgreSQL
-- AI 계약서 생성 (Claude API)
+- 3심 중재 시스템, AI 관계 분석 (Claude API)
 - NICE 본인인증, 모두의싸인 전자서명
 
 ### 언제와 (EONJEWA) - 위치 공유 앱
 > 약속 시간에 맞춰 자동으로 위치를 공유하는 서비스
 
 - Flutter, NestJS, PostgreSQL
-- 실시간 위치 추적 (Socket.IO)
-- 카카오 지도/길찾기 API
+- 실시간 위치 공유 (Socket.IO, 카카오 지도)
+- iOS Live Activity, Android 홈 위젯
 
-### 성남수소충전소 (snh2) - 충전소 관리 앱
+### 하이 - 성남시수소충전소
 > E1 성남시 수소충전소 납품 앱
 
 - Flutter, NestJS, PostgreSQL
-- 한국가스공사 API 연동
-- 실시간 운영 현황 관리
+- 한국석유관리원 API 연동
+- 실시간 대기 현황, T/T 관리
 
 ---
 
