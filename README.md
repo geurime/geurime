@@ -8,6 +8,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -48,6 +49,13 @@
 - Flutter, NestJS, PostgreSQL
 - 한국석유관리원 API 연동
 - 실시간 대기 현황, T/T 관리
+
+### Cooldown - 앱 잠금 타이머
+> 마음을 식히는 시간, 감정 조절과 디지털 디톡스
+
+- Flutter, Kotlin (Android)
+- 3단계 해제 모드 (자유/지연/잠금)
+- Foreground Service, 재부팅 자동 복원
 
 ---
 
